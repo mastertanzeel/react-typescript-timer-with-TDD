@@ -1,2 +1,2 @@
-# Pomodor Timer
-Inspired by the [Pomodor Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+# Live demo of time
+See live demo at [Live Demo](https://react-typescript-timer.surge.sh)
